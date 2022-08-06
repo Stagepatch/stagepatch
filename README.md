@@ -1,4 +1,9 @@
 ### Hi there 👋
+StagePatch is a project to help sound technicians in festivals and other live events to manage information about performers patch requirments in a way that automatically diseminates information to those that need it in near real time without being reliant on cloud/internet conections.
+My youtube channel includes a video entiteled "why StagePatch" that explains the need for this and the issues faced. (https://www.youtube.com/channel/UCQUVoKUzDsku7qSlb5MVuNA)
+
+
+
 
 <!--
 **Stagepatch/stagepatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
